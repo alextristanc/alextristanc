@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=David+Alejandro+Tristán+Contreras;Ingeniería+en+Tecnologías+de+la+Información;Ciberseguridad+%7C+Redes+%7C+Desarrollo" alt="Typing SVG" />
+# David Alejandro Tristán Contreras
 
-<br/>
+### Information Technology Engineering Student | Cybersecurity · Networking · Development
 
-<img src="https://img.shields.io/badge/UBICACIÓN-SAN%20LUIS%20POTOSÍ,%20MÉXICO-1a1a2e?style=for-the-badge&labelColor=0d0d0d&color=2c2c54" />
-<img src="https://img.shields.io/badge/SEMESTRE-5°%20ITI-1a1a2e?style=for-the-badge&labelColor=0d0d0d&color=2c2c54" />
-<img src="https://img.shields.io/badge/CERTIFICACIONES-15%20VIGENTES-1a1a2e?style=for-the-badge&labelColor=0d0d0d&color=b8860b" />
+<img src="https://img.shields.io/badge/LOCATION-SAN%20LUIS%20POTOSÍ,%20MEXICO-1a1a2e?style=for-the-badge&labelColor=0d0d0d&color=2c2c54" />
+<img src="https://img.shields.io/badge/SEMESTER-5TH%20ITI-1a1a2e?style=for-the-badge&labelColor=0d0d0d&color=2c2c54" />
+<img src="https://img.shields.io/badge/CERTIFICATIONS-15%20ACTIVE-1a1a2e?style=for-the-badge&labelColor=0d0d0d&color=b8860b" />
 
 <br/><br/>
 
@@ -29,29 +29,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Perfil
+## Profile
 
-Estudiante de **Ingeniería en Tecnologías de la Información** (5° semestre) en la Universidad Politécnica de San Luis Potosí, con sólida formación técnica certificada en ciberseguridad, redes, soporte IT y herramientas Microsoft. Cuento con **15 certificaciones vigentes** emitidas por Cisco, Microsoft y Certiport/Pearson VUE. Tengo experiencia práctica en desarrollo de software con Java y administración básica de sistemas Linux. Orientado al aprendizaje continuo, con capacidad de resolución de problemas y comunicación efectiva en entornos técnicos.
+Information Technology Engineering student (5th semester) at Universidad Politécnica de San Luis Potosí, with solid technical training certified in cybersecurity, networking, IT support, and Microsoft tools. Holder of **15 active certifications** issued by Cisco, Microsoft, and Certiport/Pearson VUE. Hands-on experience developing software with Java and basic Linux system administration. Focused on continuous learning, with strong problem-solving skills and effective communication in technical environments.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Educación
+## Education
 
 <table>
 <tr>
 <td width="70%" valign="top">
 
-**Ingeniería en Tecnologías de la Información (ITI)**
-Universidad Politécnica de San Luis Potosí — San Luis Potosí, S.L.P.
-*Agosto 2024 – Presente · 5° semestre en curso*
+**Information Technology Engineering (ITI)**
+Universidad Politécnica de San Luis Potosí — San Luis Potosí, Mexico
+*August 2024 – Present · Currently in 5th semester*
 
-| Área | Contenidos |
+| Area | Content |
 |---|---|
-| Programación | C (algoritmia, estructuras de datos, manejo de archivos), Java OOP con PostgreSQL/Supabase |
-| Desarrollo web y bases de datos | HTML5, CSS3, PHP, MySQL/SQL, REST APIs, autenticación segura (hashing) |
-| Infraestructura y redes | IT Essentials 8 (Cisco), cableado físico, SSH, virtualización |
+| Programming | C (algorithms, data structures, file handling), Java OOP with PostgreSQL/Supabase |
+| Web development and databases | HTML5, CSS3, PHP, MySQL/SQL, REST APIs, secure authentication (hashing) |
+| Infrastructure and networking | IT Essentials 8 (Cisco), physical cabling, SSH, virtualization |
 
-**Preparatoria**
+**High School**
 Colegio de Bachilleres del Estado de San Luis Potosí, Plantel 28 · *2021 – 2024*
 
 </td>
@@ -63,54 +63,54 @@ Colegio de Bachilleres del Estado de San Luis Potosí, Plantel 28 · *2021 – 2
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Certificaciones
+## Certifications
 
 <div align="center">
-<img src="https://img.shields.io/badge/15-Certificaciones%20vigentes-b8860b?style=flat-square" />
+<img src="https://img.shields.io/badge/15-Active%20certifications-b8860b?style=flat-square" />
 </div>
 
 ### Cisco — Networking Academy
 
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 
-| Certificado | Estado |
+| Certificate | Status |
 |---|---|
-| CCST IT Support | Vigente hasta junio 2031 |
-| Ethical Hacker | Emitido 19 julio 2025 |
-| Hardware and Upgrade Support | Emitido 4 junio 2026 |
-| Introduction to Cybersecurity | Emitido 9 junio 2025 |
-| IT Customer Support Basics | Emitido 2 junio 2026 |
-| IT Support Specialist Career Path | Emitido 9 junio 2026 |
-| Networking Basics | Vigente |
-| Operating Systems Support | Vigente |
-| Security and Connectivity Support | Vigente |
+| CCST IT Support | Valid until June 2031 |
+| Ethical Hacker | Issued July 19, 2025 |
+| Hardware and Upgrade Support | Issued June 4, 2026 |
+| Introduction to Cybersecurity | Issued June 9, 2025 |
+| IT Customer Support Basics | Issued June 2, 2026 |
+| IT Support Specialist Career Path | Issued June 9, 2026 |
+| Networking Basics | Active |
+| Operating Systems Support | Active |
+| Security and Connectivity Support | Active |
 
 ### Microsoft
 
 <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" />
 
-| Certificado | Estado |
+| Certificate | Status |
 |---|---|
-| MOS: Associate (Office 2019) | Vigente hasta enero 2031 |
-| MOS: Excel Expert (Office 2019) | Vigente hasta junio 2031 |
-| MOS: Excel Associate | Emitido 6 mayo 2025 |
-| MOS: PowerPoint Associate | Emitido 30 abril 2025 |
-| MOS: Word Associate | Vigente hasta enero 2031 |
+| MOS: Associate (Office 2019) | Valid until January 2031 |
+| MOS: Excel Expert (Office 2019) | Valid until June 2031 |
+| MOS: Excel Associate | Issued May 6, 2025 |
+| MOS: PowerPoint Associate | Issued April 30, 2025 |
+| MOS: Word Associate | Valid until January 2031 |
 
 ### Certiport / Pearson VUE
 
 <img src="https://img.shields.io/badge/Certiport-FF6B00?style=flat-square&logoColor=white" />
 
-| Certificado | Estado |
+| Certificate | Status |
 |---|---|
-| IT Specialist – Java | Vigente hasta junio 2031 |
-| IT Specialist – HTML and CSS | Vigente hasta junio 2031 |
+| IT Specialist – Java | Valid until June 2031 |
+| IT Specialist – HTML and CSS | Valid until June 2031 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Habilidades técnicas
+## Technical Skills
 
-**Lenguajes y desarrollo**
+**Languages and development**
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -123,7 +123,7 @@ Colegio de Bachilleres del Estado de San Luis Potosí, Plantel 28 · *2021 – 2
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Infraestructura y sistemas**
+**Infrastructure and systems**
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -137,23 +137,23 @@ Colegio de Bachilleres del Estado de San Luis Potosí, Plantel 28 · *2021 – 2
 <tr>
 <td valign="top" width="50%">
 
-**Ciberseguridad**
-Hacking ético, pentesting, evaluación y escaneo de vulnerabilidades, detección de amenazas, ingeniería social, principios de seguridad.
+**Cybersecurity**
+Ethical hacking, penetration testing, vulnerability assessment and scanning, threat detection, social engineering, security principles.
 
-**Redes e infraestructura**
-Administración de redes, protocolos y elementos de red, comunicaciones inalámbricas, IPv4, IoT, MDM, virtualización.
+**Networking and infrastructure**
+Network administration, protocols and network elements, wireless communications, IPv4, IoT, MDM, virtualization.
 
 </td>
 <td valign="top" width="50%">
 
-**Datos y análisis**
-Análisis y visualización de datos, modelos de datos, business intelligence, reportes operativos.
+**Data and analysis**
+Data analysis and visualization, data modeling, business intelligence, operational reporting.
 
-**Microsoft Office — nivel experto certificado**
-Excel (fórmulas, tablas dinámicas, macros), Word, PowerPoint, Outlook.
+**Microsoft Office — certified expert level**
+Excel (formulas, pivot tables, macros), Word, PowerPoint, Outlook.
 
-**Soporte técnico**
-Soporte presencial y remoto, hardware, instalación de software, solución de problemas técnicos.
+**Technical support**
+On-site and remote support, hardware, software installation, technical troubleshooting.
 
 </td>
 </tr>
@@ -161,27 +161,28 @@ Soporte presencial y remoto, hardware, instalación de software, solución de pr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Habilidades interpersonales
+## Soft Skills
 
 <p>
-<img src="https://img.shields.io/badge/-Resolución%20de%20problemas-2c2c54?style=flat-square" />
-<img src="https://img.shields.io/badge/-Comunicación%20efectiva-2c2c54?style=flat-square" />
-<img src="https://img.shields.io/badge/-Escucha%20activa-2c2c54?style=flat-square" />
-<img src="https://img.shields.io/badge/-Servicio%20al%20cliente-2c2c54?style=flat-square" />
-<img src="https://img.shields.io/badge/-Presentaciones%20orales-2c2c54?style=flat-square" />
-<img src="https://img.shields.io/badge/-Manejo%20de%20información%20confidencial-2c2c54?style=flat-square" />
+<img src="https://img.shields.io/badge/-Problem%20solving-2c2c54?style=flat-square" />
+<img src="https://img.shields.io/badge/-Effective%20communication-2c2c54?style=flat-square" />
+<img src="https://img.shields.io/badge/-Active%20listening-2c2c54?style=flat-square" />
+<img src="https://img.shields.io/badge/-Customer%20service-2c2c54?style=flat-square" />
+<img src="https://img.shields.io/badge/-Public%20speaking-2c2c54?style=flat-square" />
+<img src="https://img.shields.io/badge/-Confidential%20information%20handling-2c2c54?style=flat-square" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Proyectos
+
+## Projects
 
 <table>
 <tr>
 <td width="100%">
 
-**Página Web de Invitación Digital**
-Invitación digital multi-sección con animaciones GSAP ScrollTrigger, escena 3D con Three.js, integración de música vía YouTube IFrame API y compatibilidad iOS/Safari. Desplegada en Netlify con dominio personalizado.
+**Digital Invitation Website**
+Multi-section digital invitation featuring GSAP ScrollTrigger animations, a 3D scene built with Three.js, music integration via the YouTube IFrame API, and iOS/Safari compatibility. Deployed on Netlify with a custom domain.
 
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
@@ -193,12 +194,12 @@ Invitación digital multi-sección con animaciones GSAP ScrollTrigger, escena 3D
 <td width="100%">
 
 **Firewall Simulator — [alextristanc/Firewal-Simulator](https://github.com/alextristanc/Firewal-Simulator)**
-Simulador interactivo 360° de detección de amenazas en el que el usuario actúa como firewall: los paquetes de red viajan por la pantalla en tiempo real y, al pasar el cursor sobre ellos, se revelan sus propiedades (protocolo, IP de origen, puerto de destino y flags TCP) para decidir si dejarlos pasar o destruirlos. Aplicación web puramente del lado del cliente, sin dependencias externas.
+Interactive 360° threat detection simulator where the user acts as the firewall: network packets travel across the screen in real time, and hovering over them reveals their properties (protocol, source IP, destination port, and TCP flags) to decide whether to let them through or destroy them. A purely client-side web application with no external dependencies.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Licencia-Apache%202.0-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square" />
 
 </td>
 </tr>
@@ -206,26 +207,21 @@ Simulador interactivo 360° de detección de amenazas en el que el usuario actú
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Idiomas
+## Languages
 
-| Idioma | Nivel |
+| Language | Level |
 |---|---|
-| Español | Nativo |
-| Inglés | Intermedio / B1 — lectura técnica fluida |
+| Spanish | Native |
+| English | Intermediate / B1 — fluent technical reading |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
 
-## Información adicional
+## Additional Information
 
-- Conocimientos en sistemas Linux (EndeavourOS / KDE Plasma) y administración básica de terminal.
-- Interés en tecnologías de privacidad y seguridad de la información (2FA, cifrado, TOTP).
-- Disponibilidad para prácticas: medio tiempo / fines de semana.
-- Carta de recomendación disponible por parte de maestros de la UPSLP.
+- Knowledge of Linux systems (EndeavourOS / KDE Plasma) and basic terminal administration.
+- Interest in privacy and information security technologies (2FA, encryption, TOTP).
+- Available for internships: part-time / weekends.
+- Letter of recommendation available from UPSLP instructors.
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:2c2c54&height=100&section=footer" width="100%"/>
-
-</div>
