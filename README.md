@@ -56,7 +56,7 @@ Colegio de Bachilleres del Estado de San Luis Potosí, Plantel 28 · *2021 – 2
 
 </td>
 <td width="30%" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/UPSLP-Logo.png/320px-UPSLP-Logo.png" width="140" onerror="this.style.display='none'"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/UPSLP.jpg" width="140" onerror="this.style.display='none'"/>
 </td>
 </tr>
 </table>
