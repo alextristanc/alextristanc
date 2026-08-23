@@ -181,18 +181,6 @@ On-site and remote support, hardware, software installation, technical troublesh
 <tr>
 <td width="100%">
 
-**Digital Invitation Website**
-Multi-section digital invitation featuring GSAP ScrollTrigger animations, a 3D scene built with Three.js, music integration via the YouTube IFrame API, and iOS/Safari compatibility. Deployed on Netlify with a custom domain.
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
 **Firewall Simulator — [alextristanc/Firewal-Simulator](https://github.com/alextristanc/Firewal-Simulator)**
 Interactive 360° threat detection simulator where the user acts as the firewall: network packets travel across the screen in real time, and hovering over them reveals their properties (protocol, source IP, destination port, and TCP flags) to decide whether to let them through or destroy them. A purely client-side web application with no external dependencies.
 
