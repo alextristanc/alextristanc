@@ -191,6 +191,14 @@ Interactive 360° threat detection simulator where the user acts as the firewall
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+**Impact Forge / Appeal Forge — [dnzlfx/Impact_Forge-AppealForge](https://github.com/dnzlfx/Impact_Forge-AppealForge)**
+Participated in this project, supporting the frontend development.
+
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2c2c54&height=3&section=header" width="100%"/>
@@ -207,9 +215,9 @@ Interactive 360° threat detection simulator where the user acts as the firewall
 ## Additional Information
 
 - Knowledge of Linux systems (EndeavourOS / KDE Plasma) and basic terminal administration.
+
 - Interest in privacy and information security technologies (2FA, encryption, TOTP).
+
 - Available for internships: part-time / weekends.
+
 - Letter of recommendation available from UPSLP instructors.
-
-<br/>
-
