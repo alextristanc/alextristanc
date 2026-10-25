@@ -262,7 +262,7 @@ Implemented role lookup in PostgreSQL/Supabase and session redirection for user 
 <tr>
 <td width="100%">
 
-**Laboratory reservation web system**
+**Laboratory reservation web system - [alextristanc/Laboratory-reservation-web-system](https://github.com/alextristanc/Laboratory-reservation-web-system)**
 *Team of 3 · May 2026*
 Web system to manage laboratory reservations. Designed the MySQL database schema for user management and laboratory reservations, developed the complete Coordination module (frontend and CRUD functionality for managing system records), built the base frontend layout for the User, Teacher, and Lab Technician roles, and implemented input sanitization and Google reCAPTCHA across all four roles.
 
