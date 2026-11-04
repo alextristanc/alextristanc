@@ -234,7 +234,7 @@ AI-powered clinical appeals system. Participated in this project, supporting the
 
 **PíldHora — Smart Pill Organizer**
 *Feria Mexicana de Ciencias e Ingenierías (FEMECI SLP) · Team of 5 · October 2026*
-Contributed to hardware integration and ESP32-C3 firmware development, implementing Wi-Fi communication, audible alerts, and physical-button input handling.
+Contributed to hardware integration and ESP32-C3.
 
 <img src="https://img.shields.io/badge/ESP32--C3%20SuperMini-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
